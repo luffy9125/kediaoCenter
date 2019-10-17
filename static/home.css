@@ -1,0 +1,17 @@
+h3.home-context {
+    font-size: 222%;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+div#container {
+    margin: 0 auto;
+    height: 30em;
+    min-width: 30em;
+    max-width: 60em;
+}
+
+div.hot-data {
+    text-align: center;
+    margin-top: 2em;
+}
